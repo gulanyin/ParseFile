@@ -1,0 +1,14 @@
+.idea
+.DS_Store
+.project
+.settings/
+.classpath
+
+
+# schema helper
+migrator/
+
+lbsweb/node_modules
+out/
+.vscode/
+JavaParseFile.iml
